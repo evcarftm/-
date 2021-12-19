@@ -1,0 +1,65 @@
+<html>
+    
+    <title> Школа скейтбординга</title>
+    <body style="font-family:sans-serif;">
+    <header style="background-color:gold;color:black">
+        <img src="https://cdn.pixabay.com/photo/2018/07/29/19/52/skateboard-3570896_960_720.png" height="50px" id="start">
+        <a href="#education" style="color:black front-size:25px;">Как проходит обучение? |</a>
+        <a href="#price" style="color:black front-size:25px;">Прайс-лист |</a>
+        <a href="#info" style="сolor:black front-size:25px;">Связаться с нами</a>
+    </header>
+    <main>
+        <h1 style="text-align:center;">Школа скейтбординга Новоуральск</h1>
+        <h2 style="text-align:center; background-color:Khaki;color:black"> Что такое скейтбординг?</h2>
+        <p>Скейтбординг — это экстремальный вид спорта, заключающийся в катании и в исполнении различных трюков на скейтборде.</p>
+        <p>Скейтбординг также включает развлекательную деятельность, вид искусства, работу в индустрии развлечений и способ передвижения. Человека, занимающегося скейтбордингом, называют скейтборди́стом, или ске́йтером. Отчёт за 2009 год показал, что годовой доход рынка скейтбординга оценивается в 4,8 миллиарда долларов США, а в мире насчитывается 11,08 миллиона активных скейтбордистов. В 2016 году было объявлено, что скейтбординг будет впервые представлен на Олимпийских играх в Токио 2020 года. 21 июня отмечается Международный день скейтбординга.</p>
+        
+        <h3 id="education"
+        style="text-align:center; background-color:Khaki">Как проходит обучение?</h3>
+        <p>Мы работаем круглый год. Даже зимой, даже в дождь, и даже во время пандемии (дистанционное обучение);</p> 
+
+        <p> Обучение возможно, кроме того, даже для самых маленьких — уже с 4-х лет. Можно и с 2-х, конечно. Но учитывайте, что такое обучение будет носить скорее игровой характер. Хотя все дети разные, возможно ваш 2-х летний ребенок скоро станет чемпионом;</p> 
+        <p> Мы можем тренировать вас и ваших детей где угодно. Заниматься можно как в специальном крытом платном скейтпарке. Так и в бесплатном открытом. А можно и в вашем дворе, если погода позволяет;</p>
+        <h4 id="price"
+        style="text-align:center; background-color:Khaki"> Стоимость обучения</h4>
+        <p> Стоимость обучения для всех одинакова, будь вы ребенок или взрослый. Новичок или опытный скейтер. Цены для всех равны</p>
+        <p> Ниже представлена таблица со стоимостью занятий:</p>
+    <table style="border:1px solid blue;">
+        <tr>
+            <td style="border:1px solid blue;">Персональные тренеровки </td>
+            <td style="border:1px solid blue;">Парные тренеровки</td>
+            <td style="border:1px solid blue;">Командные тренеровки</td>
+        </tr>
+        <tr>
+            <td style="border:1px solid blue;">1 раз - 600р </td>
+            <td style="border:1px solid blue;">1 раз - 550р</td>
+            <td style="border:1px solid blue;">1 раз - 500р</td>
+    </tr>
+    <tr>
+        <td style="border:1px solid blue;">4 раза - 2200р</td>
+        <td style="border:1px solid blue;">4 раза - 2000р</td>
+        <td style="border:1px solid blue;">4 раза - 1800р</td>
+    </tr>
+    <tr>
+        <td style="border:1px solid blue;">8 раз - 4000р</td>
+        <td style="border:1px solid blue;">8 раз - 3800р</td>
+        <td style="border:1px solid blue;">8 раз - 3600р</td>
+    </tr>
+    </table>
+        <p> Расписание: ежедневно (с 11:00 до 21:00)</p>
+        <h4 id="info"
+        style="text-align:center; background-color:Khaki">Как связаться с нами?</h4>
+        <p style="text-align:center;"> Связаться с нами можно по номеру телефона: +7 953 567 32 46</p>
+        <p style="text-align:center;"> А так-же написать в нашу группу в <a href="https://vk.com/frozenskateboarding">вк</a>
+        </p> 
+        </main>
+        <footer style= "text-align:center; background-color: gold;color:black">
+            <h4>Наши соц сети</h4>
+        <p> <a href="https://vk.com/frozenskateboarding">ВК</a> | <a href="https://www.instagram.com/frozenskateboarding/?hl=ru">ИНСТАГРАМ</a> | <a href="https://www.youtube.com/channel/UCW9HdTA1ehmXuQhPasGQXAA"> ЮТУБ </a> </p>
+
+
+
+        </footer>
+
+    </body>
+</html>
